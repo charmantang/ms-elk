@@ -7,4 +7,4 @@ An example for the Multi-scale simulation is provided in the ms-elk/examples/ms/
 
 Note the new input parameter "multi-scale".
 
-Citation: Jun Tang, A full-potential and multiscale computational scheme for interactions between ultrafast intense laser pulses and condensed medium, Computer Physics Communications 284 (2023) 108633.
+Reference and citation: Jun Tang, A full-potential and multiscale computational scheme for interactions between ultrafast intense laser pulses and condensed medium, Computer Physics Communications 284 (2023) 108633.
